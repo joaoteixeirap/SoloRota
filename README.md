@@ -20,6 +20,14 @@ Gratuito para o nômade. Piloto em Santos (SP).
 
 ---
 
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/2f97077f-0ac7-4675-808a-741df4321d27" alt="Telas do SoloRota: mapa de Santos, Radar de lugares para trabalhar e Minha estadia" width="900" />
+
+<sub>Mapa de Santos · Radar "Onde trabalhar agora" · Minha estadia</sub>
+
+</div>
+
 ## 😩 O problema
 
 > Terça, 14h, chamada com o cliente em 10 minutos. O café "com Wi-Fi" não aguenta, e você não sabe para onde ir nem a quem perguntar.
@@ -95,6 +103,12 @@ Construído **do zero por uma equipe de 4 pessoas em uma madrugada**, com vibe c
 - **Mapa:** dados do OpenStreetMap, com importação de lugares reais por cidade
 - **Testes:** Vitest (funções puras, RLS e RPC no banco) e Playwright (fluxos em celular e desktop)
 - **Deploy:** Vercel, região São Paulo
+
+## 👥 Equipe
+
+- [João Pedro Teixeira](https://github.com/joaoteixeirap)
+- [mauricio-suzuki](https://github.com/mauricio-suzuki)
+- e mais dois colegas da faculdade
 
 ## 🚀 Próximos passos
 
@@ -180,7 +194,7 @@ Produção: **[solorota.vercel.app](https://solorota.vercel.app)**. Migrações 
 
 <div align="center">
 
-Feito com ☕ e vibe coding em Santos 🌊 · [João Pedro Teixeira](https://github.com/joaoteixeirap)
+Feito com ☕ e vibe coding em Santos 🌊
 
 <sub>Dados do mapa © OpenStreetMap contributors · tiles OpenFreeMap</sub>
 
