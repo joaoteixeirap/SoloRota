@@ -108,7 +108,8 @@ Construído **do zero por uma equipe de 4 pessoas em uma madrugada**, com vibe c
 
 - [João Pedro Teixeira](https://github.com/joaoteixeirap)
 - [mauricio-suzuki](https://github.com/mauricio-suzuki)
-- e mais dois colegas da faculdade
+- [linsgiovanni](https://github.com/linsgiovanni)
+- [Guilhermefernandes22](https://github.com/Guilhermefernandes22)
 
 ## 🚀 Próximos passos
 
