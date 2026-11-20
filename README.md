@@ -34,11 +34,11 @@ Gratuito para o nômade. Piloto em Santos (SP).
 
 Chegar numa cidade nova ainda é começar do zero. Em pesquisas com nômades digitais brasileiros:
 
-| | |
-|---|---|
-| **58%** | passam a maior parte do tempo sozinhos ¹ |
-| **25,5%** | apontam relacionamentos e amizades como a maior frustração ¹ |
-| **10 de 10** | entrevistados destacam a qualidade da internet como essencial ² |
+<table>
+<tr><td><b>58%</b></td><td>passam a maior parte do tempo sozinhos ¹</td></tr>
+<tr><td><b>25,5%</b></td><td>apontam relacionamentos e amizades como a maior frustração ¹</td></tr>
+<tr><td><b>10 de 10</b></td><td>entrevistados destacam a qualidade da internet como essencial ²</td></tr>
+</table>
 
 <sub>¹ Martins, Lima e Kanarski, Intercom 2025 (200 nômades, amostra autosselecionada) · ² Araujo, TCC USP/ECA, 2024 (10 entrevistas). Amostras pequenas: valem como sinal, não como retrato.</sub>
 
